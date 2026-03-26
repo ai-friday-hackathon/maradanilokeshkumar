@@ -1,0 +1,8 @@
+Problem statement:
+With today’s online banking systems, users must go through complex navigation flows and manually enter details to perform even simple actions like transferring money, paying utility bills and much more. This process is time-consuming and repetitive, often requiring users to re-enter the same data and follow multiple steps across different sections.
+This challenge is even more evident for the current generation, who are used to fast digital experiences. They expect to complete tasks instantly, with minimal effort. When banking processes feel slow or complicated, it creates a disconnect between user expectations and the actual experience.
+
+
+
+Solution:
+In today’s fast-paced digital world, there is a need for an intelligent and conversational interface that can interact with a user to perform tasks quickly and effortlessly. Our AI-powered assistant understands the user intent and can skip the menu-driven portals, manual entries and it automatically pre-fills all the required details and will take the user directly to the confirmation screen where the user can review and submit the transaction. Post confirmation, the bank triggers it's native authentication (biometric/OTP/token) to complete the transaction safely. The solution can be extended across all internal banking operations. This not only improves operational efficiency but also significantly enhances the overall customer experience.
